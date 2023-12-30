@@ -283,7 +283,7 @@ namespace Tetris
         {
             int rnd = Random.Next(0, 7);
             char[] chars = new char[] { 'O', 'I', 'L', 'J', 'S', 'T', 'Z' };
-            Color[] colors = new Color[] { Color.FromArgb(255,255,0), Color.FromArgb(64, 224, 208), Color.FromArgb(255, 165, 0), Color.FromArgb(0, 0, 255), Color.FromArgb(0, 255, 0), Color.FromArgb(255, 110, 255), Color.FromArgb(255, 255, 0,255) };
+            Color[] colors = new Color[] { Color.FromArgb(255,255,0), Color.FromArgb(64, 224, 208), Color.FromArgb(255, 165, 0), Color.FromArgb(0, 0, 255), Color.FromArgb(0, 255, 0), Color.FromArgb(255, 110, 255), Color.FromArgb(0, 255, 0,0) };
             CurrentColor = colors[rnd];
             CurrentShape = chars[rnd];
             Summon(CurrentShape, CurrentColor);
