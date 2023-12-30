@@ -12,5 +12,6 @@ Space -> Sert Bırak
 Blok Yerleştirme : 10 Puan  
 Satır Tamamlama : 100 Puan  
   
-![image](https://github.com/onatender/tetris/assets/152275242/101ace12-13a4-4110-92b2-32c461e27380)
+![image](https://github.com/onatender/tetris/assets/152275242/35038ffc-fce5-4823-b0fa-2a809901bea8)
+
 
