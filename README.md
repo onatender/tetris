@@ -1,5 +1,6 @@
 # C# Tetris Oyunu
-
+C# Form Uygulaması ile yazılmış, görüntü; panellerin renk değiştirmesi ile oluşturularak yapılmış Tetris oyunu!  
+  
 ## Kontroller:  
 R -> Yeniden Başlat  
 Up -> Döndür  
