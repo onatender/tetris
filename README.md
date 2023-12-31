@@ -18,7 +18,8 @@ C# Form Uygulaması ile yazılmış, görüntü; panellerin renk değiştirmesi 
 
 ## Oyun Ekranı
 
-[Oyun Görüntüsü]([resim-url](https://github.com/onatender/tetris/assets/152275242/35038ffc-fce5-4823-b0fa-2a809901bea8))
+![image](https://github.com/onatender/tetris/assets/152275242/98b8e02a-a4b4-4328-af91-d75e38e272cd)
+
 
 ## Nasıl Oynanır?
 
