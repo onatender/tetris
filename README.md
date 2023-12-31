@@ -33,6 +33,6 @@ Bu oyunun çalıştırılabilmesi için bilgisayarınızda C# destekleyen bir or
 
 Eğer projeye katkıda bulunmak istiyorsanız, lütfen forklayın ve pull request gönderin. Geri bildirimlerinizi ve önerilerinizi bekliyoruz!
 
-Bu projeyle ilgili daha fazla bilgiye [GitHub](https://github.com/onatender/tetris) sayfasından ulaşabilirsiniz. İyi oyunlar!
+Bu projeye[GitHub](https://github.com/onatender/tetris) sayfasından ulaşabilirsiniz. İyi oyunlar!
 
 
